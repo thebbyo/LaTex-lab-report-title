@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.24)  24 JAN 2024 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.24)  26 JAN 2024 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -105,24 +105,97 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./du.png>] [2] (./a.aux) )
- 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./du.png>]
+<ping.png, id=12, 1244.65pt x 198.7425pt>
+File: ping.png Graphic file (type png)
+<use ping.png>
+Package pdftex.def Info: ping.png  used on input line 74.
+(pdftex.def)             Requested size: 312.00119pt x 49.81892pt.
+ [2 <./ping.png>]
+<pingCount.png, id=20, 971.63pt x 260.975pt>
+File: pingCount.png Graphic file (type png)
+<use pingCount.png>
+Package pdftex.def Info: pingCount.png  used on input line 90.
+(pdftex.def)             Requested size: 312.00119pt x 83.80042pt.
+<traceroute.png, id=21, 1649.16125pt x 519.9425pt>
+File: traceroute.png Graphic file (type png)
+<use traceroute.png>
+Package pdftex.def Info: traceroute.png  used on input line 104.
+(pdftex.def)             Requested size: 312.00119pt x 98.36168pt.
+ [3 <./pingCount.png>]
+<tracerouteCount.png, id=27, 863.225pt x 190.7125pt>
+File: tracerouteCount.png Graphic file (type png)
+<use tracerouteCount.png>
+Package pdftex.def Info: tracerouteCount.png  used on input line 114.
+(pdftex.def)             Requested size: 312.00119pt x 68.92998pt.
+ [4 <./traceroute.png> <./tracerouteCount.png>]
+<ifconfig.png, id=33, 942.52126pt x 670.505pt>
+File: ifconfig.png Graphic file (type png)
+<use ifconfig.png>
+Package pdftex.def Info: ifconfig.png  used on input line 126.
+(pdftex.def)             Requested size: 312.00119pt x 221.95282pt.
+
+[5 <./ifconfig.png>]
+<ifconfigDown.png, id=38, 1927.2pt x 1076.02pt>
+File: ifconfigDown.png Graphic file (type png)
+<use ifconfigDown.png>
+Package pdftex.def Info: ifconfigDown.png  used on input line 138.
+(pdftex.def)             Requested size: 312.00119pt x 174.18622pt.
+<ifconfigUp.png, id=39, 1927.2pt x 1076.02pt>
+File: ifconfigUp.png Graphic file (type png)
+<use ifconfigUp.png>
+Package pdftex.def Info: ifconfigUp.png  used on input line 146.
+(pdftex.def)             Requested size: 312.00119pt x 174.18622pt.
+ [6 <./ifconfigDown.png>]
+<arp.png, id=44, 989.6975pt x 154.5775pt>
+File: arp.png Graphic file (type png)
+<use arp.png>
+Package pdftex.def Info: arp.png  used on input line 158.
+(pdftex.def)             Requested size: 312.00119pt x 48.72989pt.
+ [7 <./ifconfigUp.png> <./arp.png>]
+<rarp.png, id=51, 990.70125pt x 342.27875pt>
+File: rarp.png Graphic file (type png)
+<use rarp.png>
+Package pdftex.def Info: rarp.png  used on input line 173.
+(pdftex.def)             Requested size: 312.00119pt x 107.79225pt.
+<nslookup.png, id=52, 1024.82875pt x 262.9825pt>
+File: nslookup.png Graphic file (type png)
+<use nslookup.png>
+Package pdftex.def Info: nslookup.png  used on input line 188.
+(pdftex.def)             Requested size: 312.00119pt x 80.06306pt.
+ [8 <./rarp.png>]
+<nslookupAny.png, id=57, 1154.3125pt x 637.38126pt>
+File: nslookupAny.png Graphic file (type png)
+<use nslookupAny.png>
+Package pdftex.def Info: nslookupAny.png  used on input line 199.
+(pdftex.def)             Requested size: 312.00119pt x 172.28003pt.
+ [9 <./nslookup.png> <./nslookupAny.png>]
+<netstat.png, id=63, 1192.455pt x 805.0075pt>
+File: netstat.png Graphic file (type png)
+<use netstat.png>
+Package pdftex.def Info: netstat.png  used on input line 230.
+(pdftex.def)             Requested size: 312.00119pt x 210.62363pt.
+ [10] [11 <./netstat.png>] (./a.aux) ) 
 Here is how much of TeX's memory you used:
- 1288 strings out of 480247
- 20763 string characters out of 5896151
- 306755 words of memory out of 5000000
- 19266 multiletter control sequences out of 15000+600000
- 475062 words of font info for 47 fonts, out of 8000000 for 9000
+ 1379 strings out of 480247
+ 22259 string characters out of 5896151
+ 308757 words of memory out of 5000000
+ 19343 multiletter control sequences out of 15000+600000
+ 475875 words of font info for 50 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,5n,62p,222b,130s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on a.pdf (2 pages, 68685 bytes).
+ 55i,6n,62p,727b,167s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/user/.texlive2021/texmf-var/fonts
+/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on a.pdf (11 pages, 1007274 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
